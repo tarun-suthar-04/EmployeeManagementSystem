@@ -6,7 +6,6 @@ A modular Python application for managing employee records, built with clean arc
 - Menu-driven UI
 - Database connectivity
 - Configurable structure
-- Modular services and models
 
 ## How to Run
 python database/main.py
